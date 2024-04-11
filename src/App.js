@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React iditeed this page
+          Learn React iditeed this page s
         </a>
       </header>
     </div>
